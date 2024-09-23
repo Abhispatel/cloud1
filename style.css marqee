@@ -1,0 +1,13 @@
+h1 {
+    font-size: 100px;
+}
+marquee {
+    font-size: 2vw;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    height: 10vw;
+    overflow: hidden;
+    background-color: white;
+    position: relative;
+    
+}
